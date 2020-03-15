@@ -22,4 +22,12 @@
  - [Координаты соседей](https://github.com/k0necki/Computer-Science-Homework/blob/master/Tasks%20for%20IF%20statement/NeighborsCoord.java)
  - [Четные и нечетные числа](https://github.com/k0necki/Computer-Science-Homework/blob/master/Tasks%20for%20IF%20statement/EvenAndOdd.javahttps://github.com/k0necki/Computer-Science-Homework/blob/master/Tasks%20for%20IF%20statement/CoordinateQuarters.java)
 
+ ### Задачи на циклы
+ - [ГНЧЭ-1](https://github.com/k0necki/Computer-Science-Homework/blob/master/Cycle%20tasks/GNCHA_1.java)
+ - [1/0!+1/1!+1/2!+...](https://github.com/k0necki/Computer-Science-Homework/blob/master/Cycle%20tasks/SequenceSum.java)
+ - [Сумма степеней](https://github.com/k0necki/Computer-Science-Homework/blob/master/Cycle%20tasks/PowSum.java)
+ - [Уравнение по убыванию](https://github.com/k0necki/Computer-Science-Homework/blob/master/Cycle%20tasks/DescEquation.java)
+ - [Минимальный делитель](https://github.com/k0necki/Computer-Science-Homework/blob/master/Cycle%20tasks/MinDiv.java)
+ - [Количество решений](https://github.com/k0necki/Computer-Science-Homework/blob/master/Cycle%20tasks/DecisionsNum.java)
+
 
