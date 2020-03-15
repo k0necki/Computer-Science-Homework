@@ -20,7 +20,7 @@
  - [Тип треугольника](https://github.com/k0necki/Computer-Science-Homework/blob/master/Tasks%20for%20IF%20statement/TriangleType.java)
  - [Билеты на метро](https://github.com/k0necki/Computer-Science-Homework/blob/master/Tasks%20for%20IF%20statement/SubwayTickets.java)
  - [Координаты соседей](https://github.com/k0necki/Computer-Science-Homework/blob/master/Tasks%20for%20IF%20statement/NeighborsCoord.java)
- - [Четные и нечетные числа](https://github.com/k0necki/Computer-Science-Homework/blob/master/Tasks%20for%20IF%20statement/EvenAndOdd.javahttps://github.com/k0necki/Computer-Science-Homework/blob/master/Tasks%20for%20IF%20statement/CoordinateQuarters.java)
+ - [Четные и нечетные числа](https://github.com/k0necki/Computer-Science-Homework/blob/master/Tasks%20for%20IF%20statement/EvenAndOdd.java)
 
  ### Задачи на циклы
  - [ГНЧЭ-1](https://github.com/k0necki/Computer-Science-Homework/blob/master/Cycle%20tasks/GNCHA_1.java)
