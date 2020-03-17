@@ -29,9 +29,7 @@
  - [Уравнение по убыванию](https://github.com/k0necki/Computer-Science-Homework/blob/master/Cycle%20tasks/DescEquation.java)
  - [Минимальный делитель](https://github.com/k0necki/Computer-Science-Homework/blob/master/Cycle%20tasks/MinDiv.java)
  - [Количество решений](https://github.com/k0necki/Computer-Science-Homework/blob/master/Cycle%20tasks/DecisionsNum.java)
-
 ---
-
  -[Точная Степень Двойки](https://github.com/k0necki/Computer-Science-Homework/blob/master/Cycle%20tasks/AccuratePowOf2.java)
  -[Список квадратов](https://github.com/k0necki/Computer-Science-Homework/blob/master/Cycle%20tasks/ListOfSquares.java)
  -[Минимальный делитель](https://github.com/k0necki/Computer-Science-Homework/blob/master/Cycle%20tasks/MInDiv_While.java)
