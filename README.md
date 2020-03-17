@@ -30,4 +30,16 @@
  - [Минимальный делитель](https://github.com/k0necki/Computer-Science-Homework/blob/master/Cycle%20tasks/MinDiv.java)
  - [Количество решений](https://github.com/k0necki/Computer-Science-Homework/blob/master/Cycle%20tasks/DecisionsNum.java)
 
+---
+
+ -[Точная Степень Двойки](https://github.com/k0necki/Computer-Science-Homework/blob/master/Cycle%20tasks/AccuratePowOf2.java)
+ -[Список квадратов](https://github.com/k0necki/Computer-Science-Homework/blob/master/Cycle%20tasks/ListOfSquares.java)
+ -[Минимальный делитель](https://github.com/k0necki/Computer-Science-Homework/blob/master/Cycle%20tasks/MInDiv_While.java)
+ -[Список степеней двойки](https://github.com/k0necki/Computer-Science-Homework/blob/master/Cycle%20tasks/ListOfPowOf2.java)
+ -[Двоичный логарифм](https://github.com/k0necki/Computer-Science-Homework/blob/master/Cycle%20tasks/BinaryLogarithm.java)
+ -[Утренняя пробежка](https://github.com/k0necki/Computer-Science-Homework/blob/master/Cycle%20tasks/MorningRunning.java)
+ -[Банковские проценты](https://github.com/k0necki/Computer-Science-Homework/blob/master/Cycle%20tasks/Bank_Interest.java)
+ -[Числа Фибоначчи](https://github.com/k0necki/Computer-Science-Homework/blob/master/Cycle%20tasks/FibonacciNum1.java)
+ -[Номер числа Фибоначчи](https://github.com/k0necki/Computer-Science-Homework/blob/master/Cycle%20tasks/FibonacciNum2.java)
+ -[ИСполнитель Раздвоитель](https://github.com/k0necki/Computer-Science-Homework/blob/master/Cycle%20tasks/ExecutorSplitter.java)
 
