@@ -52,9 +52,9 @@
  - [Максимальное число в массиве](https://github.com/k0necki/Computer-Science-Homework/blob/master/Array%20tasks/Max_In_Array.java)
  - [Чётные элементы массива](https://github.com/k0necki/Computer-Science-Homework/blob/master/Array%20tasks/EvenNumbers.java)
  - [Количество элементов больше соседних](https://github.com/k0necki/Computer-Science-Homework/blob/master/Array%20tasks/ElementsLargerThanNeighbours.java)
- - (Перестановка соседних элементов)[https://github.com/k0necki/Computer-Science-Homework/blob/master/Array%20tasks/Change_1_and_2.java]
+ - [Перестановка соседних элементов](https://github.com/k0necki/Computer-Science-Homework/blob/master/Array%20tasks/Change_1_and_2.java)
 
  ---
 
- - (Побочная диагональ)[https://github.com/k0necki/Computer-Science-Homework/blob/master/Array%20tasks/SideDiagonal.java]
- - (Симметричная матрица)[https://github.com/k0necki/Computer-Science-Homework/blob/master/Array%20tasks/SymmetricMatrix.java]
+ - [Побочная диагональ](https://github.com/k0necki/Computer-Science-Homework/blob/master/Array%20tasks/SideDiagonal.java)
+ - [Симметричная матрица](https://github.com/k0necki/Computer-Science-Homework/blob/master/Array%20tasks/SymmetricMatrix.java)
