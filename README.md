@@ -41,5 +41,20 @@
  - [Банковские проценты](https://github.com/k0necki/Computer-Science-Homework/blob/master/Cycle%20tasks/Bank_Interest.java)
  - [Числа Фибоначчи](https://github.com/k0necki/Computer-Science-Homework/blob/master/Cycle%20tasks/FibonacciNum1.java)
  - [Номер числа Фибоначчи](https://github.com/k0necki/Computer-Science-Homework/blob/master/Cycle%20tasks/FibonacciNum2.java)
- - [ИСполнитель Раздвоитель](https://github.com/k0necki/Computer-Science-Homework/blob/master/Cycle%20tasks/ExecutorSplitter.java)
+ - [Исполнитель Раздвоитель](https://github.com/k0necki/Computer-Science-Homework/blob/master/Cycle%20tasks/ExecutorSplitter.java)
 
+### Массивы
+ - [Количество различных элементов массива](https://github.com/k0necki/Computer-Science-Homework/blob/master/Array%20tasks/AmountOfDifferElements.java)
+ - [Количество положительных элементов массива](https://github.com/k0necki/Computer-Science-Homework/blob/master/Array%20tasks/NumOfPosElements.java)
+ - [Одинакое элементы](https://github.com/k0necki/Computer-Science-Homework/blob/master/Array%20tasks/SameSign.java)
+ - [Вывести в обратном порядке](https://github.com/k0necki/Computer-Science-Homework/blob/master/Array%20tasks/ReverseOrder.java)
+ - [Количество элемнтов польше предыдущего](https://github.com/k0necki/Computer-Science-Homework/blob/master/Array%20tasks/NumOfLargerElements.java)
+ - [Максимальное число в массиве](https://github.com/k0necki/Computer-Science-Homework/blob/master/Array%20tasks/Max_In_Array.java)
+ - [Чётные элементы массива](https://github.com/k0necki/Computer-Science-Homework/blob/master/Array%20tasks/EvenNumbers.java)
+ - [Количество элементов больше соседних](https://github.com/k0necki/Computer-Science-Homework/blob/master/Array%20tasks/ElementsLargerThanNeighbours.java)
+ - (Перестановка соседних элементов)[https://github.com/k0necki/Computer-Science-Homework/blob/master/Array%20tasks/Change_1_and_2.java]
+
+ ---
+
+ - (Побочная диагональ)[https://github.com/k0necki/Computer-Science-Homework/blob/master/Array%20tasks/SideDiagonal.java]
+ - (Симметричная матрица)[https://github.com/k0necki/Computer-Science-Homework/blob/master/Array%20tasks/SymmetricMatrix.java]
